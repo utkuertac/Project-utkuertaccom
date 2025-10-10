@@ -1,0 +1,12 @@
+/* utkuertac.com/css/style.css */
+
+
+h1, h2, h3, h4, h5, h6, p, li, a{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: black;
+    font-weight: bold;
+}
